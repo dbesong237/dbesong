@@ -1,6 +1,6 @@
 # dbesong237 / dbesong
 
-Welcome to my GitHub profile! 👋 I'm dbesong237, and this is where I share my coding projects, experiments, and contributions.
+Welcome to my GitHub profile! 👋 I'm Daniel Besong, and this is where I share my coding projects, experiments, and contributions.
 
 ## About Me
 
