@@ -35,28 +35,23 @@ I'm proficient in or currently learning:
 
 
 ## Contributions
-
-[If you contribute to open source, mention your contributions here.]
-
-*. Identify Relevant Open-Source Projects:
-
-Example 1: cx_Oracle Contribution:
+Oracle Contribution:
 Repository Name: oracle/python-cx_Oracle
 "Improved error handling for database connection failures, added detailed logging for debugging, and contributed test cases for edge scenarios."
 
-Example 2: Scikit-learn Contribution:
+Scikit-learn Contribution:
 Repository Name: scikit-learn/scikit-learn
 "Optimized the performance of a specific classification algorithm for large datasets extracted from Oracle databases. Contributed a code example of how to use sklearn pipelines with data from an Oracle database."
 
-Example 3: Data Engineering Project Contribution:
+Data Engineering Project Contribution:
 Repository Name: apache/airflow
 "Developed an Airflow operator for efficient data extraction from Oracle schemas, enabling seamless integration of Oracle data into data pipelines."
 
-Example 4: Data Visualization Contribution:
+Data Visualization Contribution:
 Repository Name: matplotlib/matplotlib
 "Added an example to the matplotlib documentation demonstrating how to visualize data retrieved from an Oracle database using pandas and matplotlib."
 
-Example 5: Documentation contribution.
+Documentation contribution.
 Repository Name: tensorflow/tensorflow
 "Improved the documentation for loading large datasets from external sources, including examples using Oracle databases, for TensorFlow training."
 
