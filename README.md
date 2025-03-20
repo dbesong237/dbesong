@@ -19,8 +19,6 @@ Here are some of the projects you'll find in my repositories:
 * **[AI-Powered Data Management Tool](link-to-repo-3):** [A project that aims to create a tool that uses AI to automate or enhance database management tasks. Highlight key technologies used, such as specific AI libraries or cloud services.]
     * Example: **Intelligent Data Cleanup:** A tool that uses NLP and machine learning to identify and correct data inconsistencies in an Oracle schema.
 
-**Note:** Feel free to explore my repositories for more detailed information and code!
-
 ## Technologies
 
 I'm proficient in or currently learning:
