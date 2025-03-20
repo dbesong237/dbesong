@@ -25,18 +25,13 @@ Here are some of the projects you'll find in my repositories:
 
 I'm proficient in or currently learning:
 
-* **Programming Languages:** Python, JavaScript, [Add others]
-* **Frameworks/Libraries:** Flask, React, scikit-learn, [Add others]
-* **Tools:** Git, Docker, [Add others]
+* **Programming Languages:** Python
 
 ## Get in Touch
 
-* **Email:** [Your Email Address]
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Twitter:** [Your Twitter Profile URL]
-* **Portfolio:** [Your Portfolio URL (if applicable)]
+* **Email:** dbesong233@gmail.com
+* **LinkedIn:** www.linkedin.com/in/daniel-besong-92595812a
 
-Feel free to reach out if you have any questions or want to collaborate!
 
 ## Contributions
 
@@ -46,18 +41,8 @@ Feel free to reach out if you have any questions or want to collaborate!
 
 ## How to Contribute
 
-If you'd like to contribute to any of my projects, please follow these general guidelines:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them with descriptive messages.
-4.  Push your changes to your fork.
-5.  Submit a pull request.
 
 ## License
 
-[If applicable, specify the license under which your projects are released, e.g., MIT, Apache 2.0, etc.]
+[https://vrfy.digital/index.php?key=fahgtxpj]
 
----
-
-Thank you for visiting my GitHub profile!
