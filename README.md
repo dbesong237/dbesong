@@ -42,19 +42,23 @@ I'm proficient in or currently learning:
 
 Example 1: cx_Oracle Contribution:
 Repository Name: oracle/python-cx_Oracle
-Brief Description of your Contribution: "Improved error handling for database connection failures, added detailed logging for debugging, and contributed test cases for edge scenarios."
+"Improved error handling for database connection failures, added detailed logging for debugging, and contributed test cases for edge scenarios."
+
 Example 2: Scikit-learn Contribution:
 Repository Name: scikit-learn/scikit-learn
-Brief Description of your Contribution: "Optimized the performance of a specific classification algorithm for large datasets extracted from Oracle databases. Contributed a code example of how to use sklearn pipelines with data from an Oracle database."
+"Optimized the performance of a specific classification algorithm for large datasets extracted from Oracle databases. Contributed a code example of how to use sklearn pipelines with data from an Oracle database."
+
 Example 3: Data Engineering Project Contribution:
 Repository Name: apache/airflow
-Brief Description of your Contribution: "Developed an Airflow operator for efficient data extraction from Oracle schemas, enabling seamless integration of Oracle data into data pipelines."
+"Developed an Airflow operator for efficient data extraction from Oracle schemas, enabling seamless integration of Oracle data into data pipelines."
+
 Example 4: Data Visualization Contribution:
 Repository Name: matplotlib/matplotlib
-Brief Description of your Contribution: "Added an example to the matplotlib documentation demonstrating how to visualize data retrieved from an Oracle database using pandas and matplotlib."
+"Added an example to the matplotlib documentation demonstrating how to visualize data retrieved from an Oracle database using pandas and matplotlib."
+
 Example 5: Documentation contribution.
 Repository Name: tensorflow/tensorflow
-Brief Description of your Contribution: "Improved the documentation for loading large datasets from external sources, including examples using Oracle databases, for TensorFlow training."
+"Improved the documentation for loading large datasets from external sources, including examples using Oracle databases, for TensorFlow training."
 
 
 ## License
