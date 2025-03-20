@@ -29,7 +29,7 @@ I'm proficient in or currently learning:
 * **Databases:** Oracle Database (11g, 12c, 19c), SQL Developer, Data Warehousing Concepts
 * **Frameworks/Libraries:** pandas, scikit-learn, TensorFlow, PyTorch, NLTK, spaCy, cx_Oracle
 * **Cloud Platforms:** AWS (SageMaker, RDS), Azure (Machine Learning Studio, SQL Database)
-* **Tools:** Git, Docker, Jupyter Notebooks
+* **Tools:** Google Colap, Jupyter Notebooks
 ## Get in Touch
 
 * **Email:** dbesong233@gmail.com
